@@ -99,7 +99,7 @@ Feel free to fork this project and submit pull requests. Issues and feedback are
 ## 📫 Contact
 
 **Muhammad Absar Khalid**  
-Email: ymabsarkhalid@gmail.com
+Email: mabsarkhalid@gmail.com
 GitHub: [absar55](https://github.com/absar55)
 
 ---
